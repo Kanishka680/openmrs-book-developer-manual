@@ -1,13 +1,14 @@
 ![](/assets/OpenMRS-cross.png)
-<center><h1> Welcome To OpenMRS </h1></center>
+<center><h1> Welcome to OpenMRS </h1></center>
 <center><h2> Write Code, Save Lives </h2></center>
 
-The OpenMRS Developers manual is hosted at [https://github.com/openmrs/openmrs-book-developer-manual](https://github.com/openmrs/openmrs-book-developer-manual). Anyone is welcome to help us improve the manual by contributing pull requests to this repository.
+The OpenMRS Developer's manual is hosted at [https://github.com/openmrs/openmrs-book-developer-manual](https://github.com/openmrs/openmrs-book-developer-manual). Anyone is welcome to help us improve the manual by contributing pull requests to this repository.
 
 The book uses basic [markdown](https://guides.github.com/features/mastering-markdown/) syntax. We avoid any complex formatting or layout for the sake of simplicity, limiting formatting mostly to headers, lists, hyperlinks, emphasis only when necessary, and an occasional embedded image.
 
 ## Making small edits
 
+* Check for broken links or outdated version numbers in the text.
 * Clicking on the EDIT link at the top of any page in the book will take you to the corresponding page in the source.
 * If you don't have one, get a [GitHub account](https://github.com/join), and then you can edit the source using GitHub's online editor and GitHub will walk you through submitting the change.
   * If you have push access, you will be able to commit the change directly.
